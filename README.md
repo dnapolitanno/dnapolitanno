@@ -7,11 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnapolitanno&layout=compact&hide_border=true&title_color=FF8119&text_color=FF8119&bg_color=0d1117" />
 </div>
 
-<div align="center"> 
-<a href="https://www.linkedin.com/in/eduardanapolitano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-FFFFFF?style=for-the-badge&logo=Processing-Foundation&logoColor=black" target="_blank"></a>  -->
-</div>
-
 <div align="center">
   
 ### Main skills:
