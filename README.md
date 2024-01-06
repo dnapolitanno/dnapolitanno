@@ -12,10 +12,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-csharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Jquery](https://img.shields.io/badge/-jquery-0D1117?style=for-the-badge&logo=jquery&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-styled%20components-0D1117?style=for-the-badge&logo=styled-components&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-csharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 ### Tools:
