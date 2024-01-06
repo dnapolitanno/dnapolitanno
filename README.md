@@ -1,11 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c2255c&height=107&section=header"/>
-  
- # Eduarda Dutra Napolitano - desenvolvedora 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dnapolitanno&show_icons=true&count_private=true&hide_border=true&title_color=c2255c&icon_color=FF8119&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnapolitanno&layout=compact&hide_border=true&title_color=c2255c&text_color=c2255c&bg_color=0d1117" />
-</div>
+# Eduarda Dutra Napolitano - desenvolvedora 
 
 <div align="center">
   
@@ -36,5 +29,3 @@
 <a href="https://www.linkedin.com/in/eduardanapolitano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-FFFFFF?style=for-the-badge&logo=Processing-Foundation&logoColor=black" target="_blank"></a>  -->
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c2255c&height=107&section=footer"/>
