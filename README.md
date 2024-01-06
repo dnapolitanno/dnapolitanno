@@ -1,5 +1,11 @@
 # Eduarda Dutra Napolitano - desenvolvedora 
 
+## Sobre mim
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 💼 Trabalhando como desenvolvedora fullstack na Weopen.
+- 🌱 Aprendendo mais sobre C#.
+
 <div align="center">
   
 ### Main skills:
@@ -14,6 +20,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&labelColor=0D1117)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
 ![Slack](https://img.shields.io/badge/-Slack-0D1117?style=for-the-badge&logo=slack&labelColor=0D1117)&nbsp;
   
 
