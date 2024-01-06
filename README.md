@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c2255c&height=107&section=header"/>
   
- # Hi
+ # Eduarda Dutra Napolitano - desenvolvedora 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dnapolitanno&show_icons=true&count_private=true&hide_border=true&title_color=c2255c&icon_color=FF8119&text_color=c9d1d9&bg_color=0d1117" /> 
